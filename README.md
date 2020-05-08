@@ -2,6 +2,10 @@
 
 Serverless Guide
 
+## Experiments
+
+Check the code of our cool blog made in serverless [Here](./website/README.md)
+
 ## Use cases
 
 - Data processing
@@ -25,8 +29,3 @@ AWS Serverless Aplication Repository
 ## Examples
 
 [AWS Examples](https://github.com/aws-samples/serverless-app-examples)
-
-## TODO
-
-- [ ] Read aws lambda docs
-- [ ] Read serverless white paper https://serverless.com/components/
