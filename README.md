@@ -4,7 +4,9 @@ Serverless Guide
 
 ## Experiments
 
-Check the code of our cool blog made in serverless [Here](./website/README.md)
+### Blog
+
+Check the code of our cool blog made in and for serverless [Here](./website/README.md)
 
 ## Use cases
 
