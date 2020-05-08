@@ -4,6 +4,7 @@ A Simple Blog made specially for serverless, take posts from a fake API, have a 
 
 ## TODO
 
+- [ ] V1
 - [x] Add dev-server fake-api-gateway
 - [x] Add regex route generator
 - [x] Add routes
@@ -17,7 +18,11 @@ A Simple Blog made specially for serverless, take posts from a fake API, have a 
 - [ ] Create a script to push this to AWS
 - [ ] scape dangerous html
 - [ ] Add SAM
-
 - [ ] Document about what SAM is
 https://stackoverflow.com/questions/50140885/difference-between-sam-template-and-cloudformation-template
 https://github.com/awslabs/serverless-application-model
+
+- [ ] V2
+- [ ] Check vectors attacks
+- [ ] Deeper comparison between handlebars, ejs and html-vip
+- [ ] Check lit-html
