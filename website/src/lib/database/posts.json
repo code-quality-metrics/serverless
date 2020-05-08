@@ -1,0 +1,30 @@
+[
+  {
+    "path": "hello-world",
+    "title": "Hello World",
+    "excerpt": "This is my first post, hello all!",
+    "content": "This is my first post, hello all!, how are you?",
+    "date": "2020-05-07T23:49:11.305Z"
+  },
+  {
+    "path": "the-world-is-not-enough",
+    "title": "The World is not enough",
+    "excerpt": "We should complete the mission and force the world into submission",
+    "content": "World is decayed, capitalism finally destroy itself, is time for the new generation to take place and remove the old system from the root",
+    "date": "2020-05-08T23:49:11.305Z"
+  },
+  {
+    "path": "the-best-joke-in-the-world",
+    "title": "The best joke in the world",
+    "excerpt": "You can't miss this",
+    "content": "A couple of New Jersey hunters are out in the woods when one of them falls to the ground. He doesn't seem to be breathing, his eyes are rolled back in his head. The other guy whips out his cell phone and calls the emergency services. He gasps to the operator: “My friend is dead! What can I do?” \n\nThe operator, in a calm soothing voice says: “Just take it easy. I can help. First, let's make sure he's dead.” There is a silence, then a shot is heard. \n\nThe guy's voice comes back on the line. He says: “OK, now what?“",
+    "date": "2020-05-09T23:49:11.305Z"
+  },
+  {
+    "path": "dangerous-xss-injected-post",
+    "title": "Dangerous XSS Injected Post",
+    "excerpt": "This will cause your CPU to shoot Neutrons and cause an atomic reaction in your computer",
+    "content": "<script>alert('You are Dead now!')</script>",
+    "date": "2020-05-10T23:49:11.305Z"
+  }
+]
